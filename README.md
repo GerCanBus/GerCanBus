@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gerard-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/tuperfil)  
 [![GitHub Followers](https://img.shields.io/github/followers/tuusuario?style=social)](https://github.com/tuusuario)  
 
-Estoy finalizando mi **2º año del Ciclo Formativo Superior en Administración de Sistemas Informáticos en Red (ASIR)** con una clara orientación hacia el trabajo con datos y redes.  
+Estoy finalizando mi **2º año del Ciclo Formativo Superior en Administración de Sistemas Informáticos en Red (ASIR)** con una clara orientación hacia el trabajo con datos y redes.  ¡Tres módulos y termino!
 
 ### 🔍 Sobre mí
 Estudiante de 2º de ASIR con pasión por:
